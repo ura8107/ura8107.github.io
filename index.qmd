@@ -1,9 +1,25 @@
 ---
-title: "Welcome!"
+title: "Welcome to my website!"
 ---
 
 I'm Yuki Matsuura, 2nd year Master's student at the University of Tokyo. 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+:::{.callout-note title="To some" collapse="true"}
+
+From Komaba with love.
+:::
+
 ## Education
+University of Tokyo
+
+- M.A. in International Relations
+
+- B.A. in Liberal Arts
+
+## Research Interests
+
+* Nuclear development
+
+* Coup
