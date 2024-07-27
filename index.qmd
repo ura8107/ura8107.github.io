@@ -2,6 +2,13 @@
 title: "Welcome to my website!"
 about:
   template: solana
+  links: 
+    - icon: envelope
+      text: E-mail
+      href: mailto:matsuura-yuuki318@g.ecc.u-tokyo.ac.jp
+    - icon: github
+      text: Github
+      href: https://github.com/ura8107
 ---
 
 I'm Yuki Matsuura, 2nd year Master's student at the University of Tokyo. 
