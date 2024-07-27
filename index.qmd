@@ -1,5 +1,7 @@
 ---
 title: "Welcome to my website!"
+about:
+  template: solana
 ---
 
 I'm Yuki Matsuura, 2nd year Master's student at the University of Tokyo. 
@@ -12,7 +14,7 @@ From Komaba with love.
 :::
 
 ## Education
-University of Tokyo
+**University of Tokyo**
 
 - M.A. in International Relations
 
@@ -20,6 +22,17 @@ University of Tokyo
 
 ## Research Interests
 
-* Nuclear development
+::: {.panel-tabset}
+## IR
 
-* Coup
+Nuclear development
+
+## CP
+
+Coup
+
+## Methodology
+
+Panel data 
+
+:::

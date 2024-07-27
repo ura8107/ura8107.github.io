@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "ura8107.github.io"
+  title: "Yuki Matsuura"
   google-analytics: "G-8Z5QMTEYRY"
+  page-footer: "© 2024 Yuki Matsuura" 
   navbar:
     left:
       - href: index.qmd
