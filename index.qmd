@@ -1,9 +1,9 @@
 ---
-title: "ura8107.github.io"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
+I'm Yuki Matsuura, 2nd year Master's student at the University of Tokyo. 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-## Educatoin
+## Education
