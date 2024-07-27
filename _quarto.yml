@@ -12,6 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: work.qmd
+        text: Work
 
 format:
   html:
