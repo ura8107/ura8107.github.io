@@ -11,7 +11,9 @@ about:
       href: https://github.com/ura8107
 ---
 
-I'm Yuki Matsuura, 2nd year Master's student at the University of Tokyo. 
+I'm Yuki Matsuura, 2nd year Master's student at the University of Tokyo. My research focuses on International Relations and Comparative Politics within the range of political science.
+
+Precisely, I study how nuclear weapons development technology (nuclear latency) leads to some international consequences, as a M.D. project. I'm also working on what determines the likelihood of coups. 
 
 ## Education
 **University of Tokyo**
