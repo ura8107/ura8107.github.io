@@ -5,7 +5,8 @@ project:
 website:
   title: "Yuki Matsuura"
   google-analytics: "G-8Z5QMTEYRY"
-  page-footer: "© 2024 Yuki Matsuura" 
+  page-footer: "© 2026 Yuki Matsuura" 
+  reader-mode: true
   navbar:
     background: primary
     search: true

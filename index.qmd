@@ -5,15 +5,15 @@ about:
   links: 
     - icon: envelope
       text: E-mail
-      href: mailto:matsuura-yuuki318@g.ecc.u-tokyo.ac.jp
+      href: mailto:matsuura.yuki.200095@gmail.com
     - icon: github
       text: Github
       href: https://github.com/ura8107
 ---
 
-I'm Yuki Matsuura, 2nd year Master's student at the University of Tokyo. My research focuses on International Relations and Comparative Politics within the range of political science.
+Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO). 
 
-Precisely, I study how nuclear weapons development technology (nuclear latency) leads to some international consequences, as my master's thesis project. I'm also working on what determines the likelihood of coups. 
+I obtained my B.A. and M.A. from the University of Tokyo. 
 
 ## Education
 **University of Tokyo**
@@ -28,7 +28,7 @@ Precisely, I study how nuclear weapons development technology (nuclear latency) 
 
 - Nuclear Development
 
-- Foreign Direct Investment (FD)
+- Foreign Direct Investment (FDI)
 
 **CP** 
 
