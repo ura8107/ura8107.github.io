@@ -9,9 +9,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ura8107
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yuki-matsuura-731674231/
 ---
 
 Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO). 
+
+My academic interests center around empirical studies of political economy in developing countries. More specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics. I apply quantitative methods, causal inference methodology and geospatial analysis to observed data. 
 
 I obtained my B.A. and M.A. from the University of Tokyo. 
 

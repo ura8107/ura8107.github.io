@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO).\nI obtained my B.A. and M.A. from the University of Tokyo."
+    "text": "Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO).\nMy academic interests center around empirical studies of political economy in developing countries. More specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics. I apply quantitative methods, causal inference methodology and geospatial analysis to observed data.\nI obtained my B.A. and M.A. from the University of Tokyo."
   },
   {
     "objectID": "index.html#education",
@@ -53,6 +53,34 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Curriculum Vitae"
+    "text": "Curriculum Vitae\nYou can download my latest CV from below."
+  },
+  {
+    "objectID": "work.html#working-papers",
+    "href": "work.html#working-papers",
+    "title": "Yuki Matsuura",
+    "section": "Working Papers",
+    "text": "Working Papers\nYuki Matsuura, Masanori Kubota, Kaoru Hidaka, and Taku Yukawa. (2024). “Who Pursues the Bomb? Leaders’ Education Abroad and the Development of Weapons of Mass Destruction”, OSIPP Discussion Paper"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Yuki Matsuura",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nYuki Matsuura, Masanori Kubota, Kaoru Hidaka, and Taku Yukawa. (2024). “Who Pursues the Bomb? Leaders’ Education Abroad and the Development of Weapons of Mass Destruction”, OSIPP Discussion Paper"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Yuki Matsuura",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nHow does political decentralization determine regional infrastructure procurement in Vietnam? Evidence from land expropriability.\nThe effect of international naming and shaming on the fate of domestic political activists: Empirical evidence from Vietnam. (with Miri Aoki, IDE-JETRO)"
+  },
+  {
+    "objectID": "research.html#presentation",
+    "href": "research.html#presentation",
+    "title": "Yuki Matsuura",
+    "section": "Presentation",
+    "text": "Presentation\n\nA"
   }
 ]
