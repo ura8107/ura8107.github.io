@@ -16,7 +16,9 @@ about:
 
 Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO). 
 
-My academic interests center around empirical studies of political economy in developing countries. More specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics. I apply quantitative methods, causal inference methodology and geospatial analysis to observed data. 
+My academic interests center around empirical studies of politics and political economy in developing countries and beyond. Specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics. 
+
+I apply quantitative methods, causal inference methodology and geospatial analysis to observed data. 
 
 I obtained my B.A. and M.A. from the University of Tokyo. 
 
@@ -31,14 +33,20 @@ I obtained my B.A. and M.A. from the University of Tokyo.
 
 **IR**
 
-- Nuclear Development
+- Nuclear Nonproliferation Regime
 
 - Foreign Direct Investment (FDI)
 
+- Human Rights
+
 **CP** 
 
-- Coup
+- Authoritarian Regimes
+
+- Land Politics
 
 **Methodology**
 
 - Causal inference with panel data
+
+- Text-as-data and application of LLMs

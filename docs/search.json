@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO).\nMy academic interests center around empirical studies of political economy in developing countries. More specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics. I apply quantitative methods, causal inference methodology and geospatial analysis to observed data.\nI obtained my B.A. and M.A. from the University of Tokyo."
+    "text": "Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO).\nMy academic interests center around empirical studies of politics and political economy in developing countries and beyond. Specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics.\nI apply quantitative methods, causal inference methodology and geospatial analysis to observed data.\nI obtained my B.A. and M.A. from the University of Tokyo."
   },
   {
     "objectID": "index.html#education",
@@ -53,6 +53,6 @@
     "href": "index.html#research-interests",
     "title": "Welcome to my website!",
     "section": "Research Interests",
-    "text": "Research Interests\nIR\n\nNuclear Development\nForeign Direct Investment (FDI)\n\nCP\n\nCoup\n\nMethodology\n\nCausal inference with panel data"
+    "text": "Research Interests\nIR\n\nNuclear Nonproliferation Regime\nForeign Direct Investment (FDI)\nHuman Rights\n\nCP\n\nAuthoritarian Regimes\nLand Politics\n\nMethodology\n\nCausal inference with panel data\nText-as-data and application of LLMs"
   }
 ]
