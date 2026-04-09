@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my website!",
-    "section": "",
-    "text": "Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO).\nMy academic interests center around empirical studies of political economy in developing countries. More specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics. I apply quantitative methods, causal inference methodology and geospatial analysis to observed data.\nI obtained my B.A. and M.A. from the University of Tokyo."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Welcome to my website!",
-    "section": "Education",
-    "text": "Education\nUniversity of Tokyo\n\nM.A. in International Relations\nB.A. in Liberal Arts"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Welcome to my website!",
-    "section": "Research Interests",
-    "text": "Research Interests\nIR\n\nNuclear Development\nForeign Direct Investment (FDI)\n\nCP\n\nCoup\n\nMethodology\n\nCausal inference with panel data"
-  },
-  {
-    "objectID": "work.html",
-    "href": "work.html",
-    "title": "Yuki Matsuura",
-    "section": "",
-    "text": "Yuki Matsuura, Masanori Kubota, Kaoru Hidaka, and Taku Yukawa. (2024). “Who Pursues the Bomb? Leaders’ Education Abroad and the Development of Weapons of Mass Destruction”, OSIPP Discussion Paper"
-  },
-  {
-    "objectID": "work.html#publication",
-    "href": "work.html#publication",
-    "title": "Yuki Matsuura",
-    "section": "",
-    "text": "Yuki Matsuura, Masanori Kubota, Kaoru Hidaka, and Taku Yukawa. (2024). “Who Pursues the Bomb? Leaders’ Education Abroad and the Development of Weapons of Mass Destruction”, OSIPP Discussion Paper"
-  },
-  {
-    "objectID": "work.html#work-in-progress",
-    "href": "work.html#work-in-progress",
-    "title": "Yuki Matsuura",
-    "section": "Work in Progress",
-    "text": "Work in Progress"
-  },
-  {
-    "objectID": "work.html#presentation",
-    "href": "work.html#presentation",
-    "title": "Yuki Matsuura",
-    "section": "Presentation",
-    "text": "Presentation"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -56,11 +7,11 @@
     "text": "Curriculum Vitae\nYou can download my latest CV from below.\nDownload my CV"
   },
   {
-    "objectID": "work.html#working-papers",
-    "href": "work.html#working-papers",
-    "title": "Yuki Matsuura",
-    "section": "Working Papers",
-    "text": "Working Papers\nYuki Matsuura, Masanori Kubota, Kaoru Hidaka, and Taku Yukawa. (2024). “Who Pursues the Bomb? Leaders’ Education Abroad and the Development of Weapons of Mass Destruction”, OSIPP Discussion Paper"
+    "objectID": "map.html",
+    "href": "map.html",
+    "title": "For fun!",
+    "section": "",
+    "text": "Interactive map"
   },
   {
     "objectID": "research.html#working-papers",
@@ -84,10 +35,24 @@
     "text": "Presentation\n\nA"
   },
   {
-    "objectID": "map.html",
-    "href": "map.html",
-    "title": "For fun!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
     "section": "",
-    "text": "Interactive map"
+    "text": "Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO).\nMy academic interests center around empirical studies of political economy in developing countries. More specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics. I apply quantitative methods, causal inference methodology and geospatial analysis to observed data.\nI obtained my B.A. and M.A. from the University of Tokyo."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Welcome to my website!",
+    "section": "Education",
+    "text": "Education\nUniversity of Tokyo\n\nM.A. in International Relations\nB.A. in Liberal Arts"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Welcome to my website!",
+    "section": "Research Interests",
+    "text": "Research Interests\nIR\n\nNuclear Development\nForeign Direct Investment (FDI)\n\nCP\n\nCoup\n\nMethodology\n\nCausal inference with panel data"
   }
 ]

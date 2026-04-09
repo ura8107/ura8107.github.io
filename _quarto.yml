@@ -22,5 +22,7 @@ website:
 
 format:
   html:
-    theme: journal
+    theme:
+      light: journal
+      dark: darkly
     toc: true
