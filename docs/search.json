@@ -54,5 +54,12 @@
     "title": "Welcome to my website!",
     "section": "Research Interests",
     "text": "Research Interests\nIR\n\nNuclear Nonproliferation Regime\nForeign Direct Investment (FDI)\nHuman Rights\n\nCP\n\nAuthoritarian Regimes\nLand Politics\n\nMethodology\n\nCausal inference with panel data\nText-as-data and application of LLMs"
+  },
+  {
+    "objectID": "misc.html",
+    "href": "misc.html",
+    "title": "Something for fun!",
+    "section": "",
+    "text": "Interactive map\n\n\n\n\n\n\n\n\nOpen social science now!\nMy dream is to make social science more open and accessible to everyone. Besides data collection and code replication, I hope to expand the polisci community and implement its insights in the real world.\nBelow are some of my attemtps to that end:\n\nVN-Politicians: A dataset of Vietnamese national deputies.\nllm-research-pipelines: A Github repo of skills/workflows collection for coding agents usage (mostly Claude Code, for now).\n\nI wrote a blog post on that in Japanese at Qiita."
   }
 ]

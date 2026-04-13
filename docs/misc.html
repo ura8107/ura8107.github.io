@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Welcome to my website! – Yuki Matsuura</title>
+<title>Something for fun! – Yuki Matsuura</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -37,6 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -82,6 +83,16 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-8Z5QMTEYRY', { 'anonymize_ip': true});
 </script>
+<link href="site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
+<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+<script src="site_libs/leaflet-binding-2.2.3/leaflet.js"></script>
 
 
 </head>
@@ -266,7 +277,7 @@ gtag('config', 'G-8Z5QMTEYRY', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -278,7 +289,7 @@ gtag('config', 'G-8Z5QMTEYRY', { 'anonymize_ip': true});
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./misc.html"> 
+    <a class="nav-link active" href="./misc.html" aria-current="page"> 
 <span class="menu-text">Misc</span></a>
   </li>  
 </ul>
@@ -301,77 +312,61 @@ gtag('config', 'G-8Z5QMTEYRY', { 'anonymize_ip': true});
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
+   
   <ul>
-  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
-  <li><a href="#research-interests" id="toc-research-interests" class="nav-link" data-scroll-target="#research-interests">Research Interests</a></li>
+  <li><a href="#interactive-map" id="toc-interactive-map" class="nav-link active" data-scroll-target="#interactive-map">Interactive map</a></li>
+  <li><a href="#open-social-science-now" id="toc-open-social-science-now" class="nav-link" data-scroll-target="#open-social-science-now">Open social science now!</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to my website!</h1>
+<h1 class="title">Something for fun!</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header> <div class="about-links">
-  <a href="mailto:matsuura.yuki.200095@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-  <a href="https://github.com/ura8107" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://www.linkedin.com/in/yuki-matsuura-731674231/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
+  
+
+
+</header>
+
+
+<section id="interactive-map" class="level3">
+<h3 class="anchored" data-anchor-id="interactive-map">Interactive map</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-29edf5f2ca0cb82f47ab" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-29edf5f2ca0cb82f47ab">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[35.64944872393974,140.04844112274,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"IDE-JETRO",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[35.64944872393974,35.64944872393974],"lng":[140.04844112274,140.04844112274]}},"evals":[],"jsHooks":[]}</script>
 </div>
-      <div class="about-contents"><main class="content" id="quarto-document-content">
-
-
-<p>Yuki Matsuura is a research fellow at the Instittute of Developing Economies, Japan External Trade Organization (IDE-JETRO).</p>
-<p>My academic interests center around empirical studies of politics and political economy in developing countries and beyond. Specifically, my current projects deal with 1) how land endowment affect the trajectory of regional economic development, 2) whether FDI shapes local political dynamics.</p>
-<p>I apply quantitative methods, causal inference methodology and geospatial analysis to observed data.</p>
-<p>I obtained my B.A. and M.A.&nbsp;from the University of Tokyo.</p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p><strong>University of Tokyo</strong></p>
-<ul>
-<li><p>M.A.&nbsp;in International Relations</p></li>
-<li><p>B.A. in Liberal Arts</p></li>
-</ul>
+</div>
 </section>
-<section id="research-interests" class="level2">
-<h2 data-anchor-id="research-interests">Research Interests</h2>
-<p><strong>IR</strong></p>
+<section id="open-social-science-now" class="level3">
+<h3 class="anchored" data-anchor-id="open-social-science-now">Open social science now!</h3>
+<p>My dream is to make social science more open and accessible to everyone. Besides data collection and code replication, I hope to expand the polisci community and implement its insights in the real world.</p>
+<p>Below are some of my attemtps to that end:</p>
 <ul>
-<li><p>Nuclear Nonproliferation Regime</p></li>
-<li><p>Foreign Direct Investment (FDI)</p></li>
-<li><p>Human Rights</p></li>
-</ul>
-<p><strong>CP</strong></p>
+<li><a href="https://vn-politician.vercel.app/members">VN-Politicians</a>: A dataset of Vietnamese national deputies.</li>
+<li>llm-research-pipelines: A Github repo of skills/workflows collection for coding agents usage (mostly Claude Code, for now).
 <ul>
-<li><p>Authoritarian Regimes</p></li>
-<li><p>Land Politics</p></li>
-</ul>
-<p><strong>Methodology</strong></p>
-<ul>
-<li><p>Causal inference with panel data</p></li>
-<li><p>Text-as-data and application of LLMs</p></li>
+<li>I wrote a blog post on that in Japanese at <a href="https://qiita.com/ura8107/items/bfa7f94812e9594a3966">Qiita</a>.</li>
+</ul></li>
 </ul>
 
 
 </section>
-</main></div>
-    </div>
-  </div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -387,6 +382,13 @@ gtag('config', 'G-8Z5QMTEYRY', { 'anonymize_ip': true});
       window.document.body.appendChild(a);
     }
     setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

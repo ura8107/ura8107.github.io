@@ -1,0 +1,29 @@
+---
+title: "Something for fun!"
+format:
+  html:
+    self-contained: false
+---
+
+### Interactive map
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng=140.04844112274003, lat=35.64944872393974, popup="IDE-JETRO")
+```
+
+### Open social science now!
+
+My dream is to make social science more open and accessible to everyone. Besides data collection and code replication, I hope to expand the polisci community and implement its insights in the real world.
+
+Below are some of my attemtps to that end:
+
+- [VN-Politicians](https://vn-politician.vercel.app/members): A dataset of Vietnamese national deputies.
+- llm-research-pipelines: A Github repo of skills/workflows collection for coding agents usage (mostly Claude Code, for now).
+  - I wrote a blog post on that in Japanese at [Qiita](https://qiita.com/ura8107/items/bfa7f94812e9594a3966).
