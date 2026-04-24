@@ -7,6 +7,8 @@ format:
 
 ### Interactive map
 
+You can find my office down here.
+
 ```{r}
 #| echo: false
 #| message: false
@@ -22,8 +24,13 @@ leaflet() %>%
 
 My dream is to make social science more open and accessible to everyone. Besides data collection and code replication, I hope to expand the polisci community and implement its insights in the real world.
 
-Below are some of my attemtps to that end:
+Below are some of my attemtps to that end so far:
 
-- [VN-Politicians](https://vn-politician.vercel.app/members): A dataset of Vietnamese national deputies.
+- [VN-Politicians](https://vn-politician.vercel.app/members): A deployed dataset of Vietnamese national deputies. To be extended to more tenures. 
+
 - llm-research-pipelines: A Github repo of skills/workflows collection for coding agents usage (mostly Claude Code, for now).
   - I wrote a blog post on that in Japanese at [Qiita](https://qiita.com/ura8107/items/bfa7f94812e9594a3966).
+
+- Scalable annotation of latent variables in political science.
+
+  - With the rise of LLMs, we can annotate important variables in political science from unstructured data at scale. I am currently working on a pipeline to quantifiy human rights scores.
