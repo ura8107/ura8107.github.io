@@ -1,0 +1,85 @@
+title: "Yuki Matsuura"
+name: "Yuki Matsuura"
+description: "Academic profile and research portfolio"
+url: "https://ura8107.github.io"
+baseurl: ""
+repository: "ura8107/ura8107.github.io"
+destination: docs
+keep_files:
+  - .nojekyll
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "default"
+
+locale: "en-US"
+search: true
+search_provider: lunr
+search_full_content: true
+lunr:
+  search_within_pages: true
+breadcrumbs: false
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8Z5QMTEYRY"
+    anonymize_ip: false
+
+author:
+  name: "Yuki Matsuura"
+  avatar: "/assets/images/profile.jpeg"
+  bio: "Research fellow at the Institute of Developing Economies, Japan External Trade Organization (IDE-JETRO)."
+  location: "Chiba, Japan"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:matsuura.yuki.200095@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ura8107"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yuki-matsuura-731674231/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ura8107"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yuki-matsuura-731674231/"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      toc: true
+      toc_sticky: true
+
+include:
+  - _pages
+  - .nojekyll
+
+exclude:
+  - .quarto
+  - docs
+  - image
+  - vendor
+  - vendor/bundle
+  - "*.qmd"
+  - _quarto.yml
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown
+kramdown:
+  input: GFM

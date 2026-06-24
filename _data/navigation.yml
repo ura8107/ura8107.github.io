@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research.html
+  - title: "CV"
+    url: /cv.html
+  - title: "Misc"
+    url: /misc.html

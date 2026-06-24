@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter.
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+.office-map {
+  width: 100%;
+  min-height: 420px;
+  border: 1px solid #d7d7d7;
+  margin: 1rem 0 2rem;
+}
+
+details {
+  border-left: 4px solid #d7d7d7;
+  margin: 0.75rem 0 1.5rem;
+  padding: 0.75rem 1rem;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: 700;
+}

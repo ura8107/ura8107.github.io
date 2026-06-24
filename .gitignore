@@ -3,3 +3,8 @@
 **/*.quarto_ipynb
 
 image/
+.bundle/
+.sass-cache/
+.jekyll-cache/
+_site/
+vendor/

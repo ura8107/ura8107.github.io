@@ -1,0 +1,41 @@
+---
+title: "Research"
+permalink: /research.html
+classes: wide
+---
+
+## Publication
+
+Coming soon...
+
+## Working Papers
+
+- Yuki Matsuura, Masanori Kubota, Kaoru Hidaka, and Taku Yukawa. (2024). "Who Pursues the Bomb? Leaders' Education Abroad and the Development of Weapons of Mass Destruction", *OSIPP Discussion Paper*
+
+## Work in Progress
+
+- How does political decentralization and hometown favoritism determine regional economic development in Vietnam? Evidence from land expropriability.
+  - Funded by the Japan Society for the Promotion of Science (JSPS) KAKENHI Grant.
+
+- The effect of international naming and shaming on the fate of domestic political activists: Empirical evidence from Vietnam. (with Miri Aoki, IDE-JETRO)
+
+<details>
+<summary>Abstract</summary>
+
+Does international naming and shaming affect the treatment of political activists at home? While political science literature focus on the impact of naming and shaming on the human right conditions in targeted countries cross-nationally, we lack thorough within-country investigation of whether mentioning of specific activists leads to better treatment of those at risk. Using the unique dataset of Vietnamese political activists in the 21 century from Project 88, we empirically test the impact of naming and shaming on the fate of political activists in Vietnam. One advantage of this dataset is that it records the activist focus of each persons harassed or detained by the state police, e.g. sovereignty, freedom of speech, and religious rights. The naming-and-shaming variable will rely on whether the person's name is mentioned in Amnesty International Urgent Action or annual Country Reports on Human Rights Practices by US Department of States. Instrumental variable approach which leverages exogenous assignment of Vietnam's chairmanship in major international organizations, and supplementary causal forest analysis to understand the potential heterogeneity treatment effect of naming and shaming, will present preliminary yet novel understanding of how international pressure can influence the prospect of domestic repression dynamism.
+
+</details>
+
+- Agreeing to Disagree?: Mapping State Preference (Dis-)Alignment Across Issue Dimensions from text records of the ENDC, 1962-1968
+
+<details>
+<summary>Abstract</summary>
+
+While the nuclear nonproliferation regime is often cited as a rare success of international consensus-building, we still lack empirical measures of what states actually agreed on, or diverged over, during its formation. Previous scholarship has attributed the regime's emergence to shared security concerns, mutual interests in controlling nuclear technology diffusion, and a nascent norm of multilateral cooperation. Yet these accounts remain largely qualitative, leaving the underlying preference dynamics underspecified. This paper examines how consensus was reached across multiple issue dimensions, security concerns, regulation of nuclear technology, and shared norm of nonproliferation, within the negotiations that produced the Nuclear Non-Proliferation Treaty (NPT) of 1968. Drawing on the digitized meeting records of the Eighteen Nations Disarmament Committee (ENDC), I apply a multi-method natural language processing framework: structural topic modeling to recover the latent agenda structure, word embedding to trace semantic shifts in state positions over time, and zero-shot, few-shot, and chain-of-thought prompting with large language models to annotate preference alignment at the state level. Each method addresses a distinct inferential task, and their convergence strengthens the overall findings. This is the first quantitative attempt to systematically map where and when state preferences over the nonproliferation agenda align, offering new insight into the negotiating dynamics that culminated to the NPT. The findings contribute to broader debates on regime formation, the measurement of diplomatic discourse, and the application of computational text analysis methods to historical multilateral archives.
+
+</details>
+
+## Presentations
+
+- Japanese Society of Quantitative Political Science (JSQPS) 2026 Winter meeting, January 2026
+- Japanese Society of Quantitative Political Science (JSQPS) 2024 Summer meeting, July 2024

@@ -1,0 +1,8 @@
+---
+title: "Curriculum Vitae"
+permalink: /cv.html
+---
+
+You can download my latest CV from below.
+
+[Download my CV](https://drive.google.com/file/d/1Z4rEu1bxwWd6aU2OsP40lgaevRBHnAy0/view?usp=sharing){: .btn .btn--primary}
